@@ -5,6 +5,7 @@
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
+  
   "author": "2U",
   "license": "UNLICENSED",
   "devDependencies": {
