@@ -20,6 +20,8 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "css-loader": "^7.1.2",
+    "nodemon": "^2.0.4",
+    "style-loader": "^4.0.0"
   }
 }
